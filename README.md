@@ -4,6 +4,8 @@ Bordered view with support for inset borders. BNBorderedView allows for the crea
 
 This was a class I used in a project a long time ago that I wanted to open source rather than sit around.
 
+![Screenshot](https://raw.github.com/brentnycum/BNBorderedView/screenshot/Screenshot.png)
+
 ## Installing
 
 Copy `BNBorderedView.h` and `BNBorderedView.m` to your projects.
