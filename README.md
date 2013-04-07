@@ -31,12 +31,16 @@ borderedView.topBorderColor = [UIColor blueColor];
  * `leftBorderColor`
  * `rightBorderColor`
 
+ * `setBorderColor:(UIColor *)color` To set all border colors.
+
 ### Border Size
 
  * `topBorderSize`
  * `bottomBorderSize`
  * `leftBorderSize`
  * `rightBorderSize`
+
+ * `setBorderSize:(CGSize)size` To set all border sizes.
 
 ### Inset Color
 
@@ -45,9 +49,13 @@ borderedView.topBorderColor = [UIColor blueColor];
  * `leftInsetColor`
  * `rightInsetColor`
 
+ * `setInsetColor:(UIColor *)color` To set all inset colors.
+
 ### Inset Size
 
  * `topInsetSize`
  * `bottomInsetSize`
  * `leftInsetSize`
  * `rightInsetSize`
+
+ * `setInsetSize:(CGSize)size` To set all inset sizes.
