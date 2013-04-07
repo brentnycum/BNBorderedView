@@ -10,7 +10,11 @@ This was a class I used in a project a long time ago that I wanted to open sourc
 
 Copy `BNBorderedView.h` and `BNBorderedView.m` to your projects.
 
-Cocoapods installation coming soon.
+### Cocoapods
+
+```ruby
+pod 'BNBorderedView', :git => 'https://github.com/brentnycum/BNBorderedView.git'
+```
 
 ## Usage
 
